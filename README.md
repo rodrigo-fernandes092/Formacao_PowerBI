@@ -1,6 +1,6 @@
 # Curso de Formaçao Power BI Analyst | DIO
 
-Este curso abrange conceitos de análise de [SQL](url) e Power BI
+Este curso abrange conceitos de análise de [SQL](https://github.com/rodrigo-fernandes092/Formacao_PowerBI/blob/main/Modulo%2001/An%C3%A1lise%20de%20Dados%20com%20SQL/Estudo_Script.sql) e Power BI
 
 O primeiro desafio é desenvoler a terceira página que contenha:
 - Visual mapa 1: Soma de sales e unidades vendidas por país 

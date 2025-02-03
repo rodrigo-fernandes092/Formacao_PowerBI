@@ -9,7 +9,7 @@ O primeiro desafio é desenvoler a terceira página que contenha:
   
 - Visual de pizza: Lucro por segmento
 
- Disponível no relatório [páginado](https://github.com/rodrigo-fernandes092/Formacao_PowerBI/blob/main/Modulo%2001/Primeiros%20Passos%20com%20Power%20BI/Relatorio%20de%20Vendas%20Aula%20PBI.pdf)
+ Veja o [relatório](https://app.powerbi.com/view?r=eyJrIjoiNTE2NGU0ZTctNjZiNC00MGI4LWE5MTYtMjkzMjBjZjk0Zjc2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9) completo.
 
 
-teste novo [relatorio](https://app.powerbi.com/view?r=eyJrIjoiNmJkMTVlM2ItZWVkNC00ODM4LWE3NTYtYzBmYTMyNWNkMGIwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+Há este [relatorio](https://app.powerbi.com/view?r=eyJrIjoiNmJkMTVlM2ItZWVkNC00ODM4LWE3NTYtYzBmYTMyNWNkMGIwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9) também 

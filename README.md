@@ -12,4 +12,4 @@ O primeiro desafio é desenvoler a terceira página que contenha:
  Disponível no relatório [páginado](https://github.com/rodrigo-fernandes092/Formacao_PowerBI/blob/main/Modulo%2001/Primeiros%20Passos%20com%20Power%20BI/Relatorio%20de%20Vendas%20Aula%20PBI.pdf)
 
 
-[teste novo relatorio]([url](https://app.powerbi.com/links/xgyA7-t3W5?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=linkShare))
+teste novo [relatorio](https://app.powerbi.com/links/xgyA7-t3W5?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=linkShare)
